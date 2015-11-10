@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "braintree": "^1.30.0"
+  }
+}
